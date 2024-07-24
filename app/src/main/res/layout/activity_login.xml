@@ -30,6 +30,7 @@
                 android:layout_width="300dp"
                 android:layout_height="40dp"
                 android:hint="  Usuário"
+                android:fontFamily="@font/poppins_semibold"
                 android:background="@drawable/border_selector"
                 android:layout_marginStart="50dp"
                 android:layout_marginTop="220dp"
@@ -39,10 +40,12 @@
                 android:id="@+id/senhaInputLogin"
                 android:layout_width="300dp"
                 android:layout_height="40dp"
-                android:hint="  Senha"
+                android:hint="Senha"
+                android:fontFamily="@font/poppins_semibold"
                 android:background="@drawable/border_selector"
                 android:layout_marginStart="50dp"
                 android:layout_marginTop="300dp"
+                android:padding="16dp"
                 android:inputType="textPassword"/>
 
             <Button
@@ -50,6 +53,7 @@
                 android:layout_width="300dp"
                 android:layout_height="match_parent"
                 android:text="Login"
+                android:fontFamily="@font/poppins_semibold"
                 android:layout_marginTop="370dp"
                 android:backgroundTint="@color/red"
                 android:layout_marginStart="50dp"/>
@@ -59,6 +63,7 @@
                 android:layout_width="300dp"
                 android:layout_height="match_parent"
                 android:text="Ainda não tenho uma conta"
+                android:fontFamily="@font/poppins_semibold"
                 android:layout_marginTop="420dp"
                 android:backgroundTint="@color/red"
                 android:layout_marginStart="50dp"/>

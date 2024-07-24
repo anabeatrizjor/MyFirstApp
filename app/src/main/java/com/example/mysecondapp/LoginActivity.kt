@@ -1,4 +1,4 @@
-package com.example.myfirstapp
+package com.example.mysecondapp
 
 import android.content.Intent
 import android.os.Bundle
@@ -9,7 +9,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
-import com.example.myfirstapp.CadastroActivity.Users
+import com.example.mysecondapp.CadastroActivity.Users
 
 class LoginActivity : AppCompatActivity() {
 

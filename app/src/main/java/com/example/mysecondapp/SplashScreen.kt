@@ -1,4 +1,4 @@
-package com.example.myfirstapp
+package com.example.mysecondapp
 //teste
 import android.content.Intent
 import android.os.Bundle
