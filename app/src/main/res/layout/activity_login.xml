@@ -30,7 +30,7 @@
                 android:layout_width="300dp"
                 android:layout_height="40dp"
                 android:hint="  Usuário"
-                android:background="@drawable/shape_campo"
+                android:background="@drawable/border_selector"
                 android:layout_marginStart="50dp"
                 android:layout_marginTop="220dp"
                 android:inputType="textPersonName"/>
@@ -40,7 +40,7 @@
                 android:layout_width="300dp"
                 android:layout_height="40dp"
                 android:hint="  Senha"
-                android:background="@drawable/shape_campo"
+                android:background="@drawable/border_selector"
                 android:layout_marginStart="50dp"
                 android:layout_marginTop="300dp"
                 android:inputType="textPassword"/>

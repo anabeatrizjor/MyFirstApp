@@ -32,7 +32,7 @@
                 android:hint="  Nome"
                 android:layout_marginStart="50dp"
                 android:layout_marginTop="150dp"
-                android:background="@drawable/shape_campo"
+                android:background="@drawable/border_selector"
                 android:inputType="textPersonName"/>
 
             <EditText
@@ -42,7 +42,7 @@
                 android:hint="  Usuário"
                 android:layout_marginStart="50dp"
                 android:layout_marginTop="220dp"
-                android:background="@drawable/shape_campo"
+                android:background="@drawable/border_selector"
                 android:inputType="textPersonName"/>
 
             <EditText
@@ -52,7 +52,7 @@
                 android:hint="  Senha"
                 android:layout_marginStart="50dp"
                 android:layout_marginTop="290dp"
-                android:background="@drawable/shape_campo"
+                android:background="@drawable/border_selector"
                 android:inputType="textPassword"/>
 
             <EditText
@@ -62,7 +62,7 @@
                 android:hint="  Confirmar senha"
                 android:layout_marginStart="50dp"
                 android:layout_marginTop="370dp"
-                android:background="@drawable/shape_campo"
+                android:background="@drawable/border_selector"
                 android:inputType="textPassword"/>
 
             <Button
